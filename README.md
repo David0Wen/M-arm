@@ -3,7 +3,7 @@
 May can use in remote medical help
 # Based on JiBot(with arduino) from taobao:众灵科技(a M-arm manufactor)
 
-# team member: 
+# Team member
 Ruoyao Wen, Pengxiao Wu, Yihao Wu, Zheng Yi.
 
 # Finished
